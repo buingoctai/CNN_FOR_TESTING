@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\FOLDER1\\CNN-FOR-TESTING\\run_cnn\\model\\checkpoints\\model-2800"
+all_model_checkpoint_paths: "D:\\FOLDER1\\CNN-FOR-TESTING\\run_cnn\\model\\checkpoints\\model-2688"
+all_model_checkpoint_paths: "D:\\FOLDER1\\CNN-FOR-TESTING\\run_cnn\\model\\checkpoints\\model-2716"
+all_model_checkpoint_paths: "D:\\FOLDER1\\CNN-FOR-TESTING\\run_cnn\\model\\checkpoints\\model-2744"
+all_model_checkpoint_paths: "D:\\FOLDER1\\CNN-FOR-TESTING\\run_cnn\\model\\checkpoints\\model-2772"
+all_model_checkpoint_paths: "D:\\FOLDER1\\CNN-FOR-TESTING\\run_cnn\\model\\checkpoints\\model-2800"
