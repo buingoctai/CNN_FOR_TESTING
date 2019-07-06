@@ -4,6 +4,7 @@ Build model cnn for classify intents
 #You need to do following steps (for python3):
 1. git clone this resource
 
+From the root of project
 2. run install packages:
 pip install -r requirements.txt
 
