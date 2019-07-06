@@ -11,4 +11,4 @@ pip install -r requirements.txt
 python train_cnn.py  
 
 4. The evaluating for new input:
-python python .\evaluate.py "Hello, My name is Diem."
+python .\evaluate.py "Hello, My name is Diem."
