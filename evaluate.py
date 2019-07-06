@@ -4,7 +4,7 @@ import sys
 if len(sys.argv)>1:
     input_user=sys.argv[1]
 else:
-    print("Please typing input as argument on cmd") #example:  python .\evaluate.py "hello linh choi da ga"
+    print("Please typing input as argument on cmd") #example:  python .\evaluate.py "hello it is Linh"
     sys.exit()
 if not (os.path.isdir('data_evaluate_cnn')):
     os.mkdir('data_evaluate_cnn')
